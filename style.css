@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #111;
+  color: #eee;
+  text-align: center;
+  padding: 2em;
+}
+h1 {
+  font-size: 2em;
+  color: #00ff88;
+}
+.button, button {
+  background-color: #00ff88;
+  border: none;
+  color: #111;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  text-decoration: none;
+  margin-top: 1em;
+}
+form input, form textarea {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 1em;
+}
